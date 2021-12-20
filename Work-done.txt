@@ -1,0 +1,3 @@
+['2021-12-18 15:09:24.041213']: Worked on the Daily-Trget-logger Projet
+['2021-12-20 10:56:06.084334']: completed my DailyTargetLogger today:)
+['2021-12-20 11:01:35.178285']: i am going to make my first git reposatory today!!
